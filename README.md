@@ -1,8 +1,8 @@
 # Finite State Machine Design
 
-**Name:** Shaik Khasim Shareef  
+**Name:** PAPASANI VENKATAKRISHNAREDDY 
 **Company:** CODETECH IT SOLUTIONS  
-**ID:** CT12DS2112  
+**ID:** CT12DS2169
 **Domain:** VLSI  
 **Duration:** August 5th to October 5th, 2024
 
